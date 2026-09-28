@@ -62,7 +62,7 @@ Files it can read:
 
 ## Install the skill
 
-You need the file **`legal-case-timeline.skill`** (or the folder `legal-case-timeline`). Skills need a paid Claude plan with code execution turned on. Menu names change from time to time. If a step does not match your screen, check the [Claude Help Center](https://support.claude.com) for the current wording.
+You need the file **`legal-case-timeline.skill`**. You do not need a paid Claude plan to use this skill on claude.ai web version. Menu names change from time to time. If a step does not match your screen, check the [Claude Help Center](https://support.claude.com) for the current wording.
 
 ### Claude.ai on the web
 
